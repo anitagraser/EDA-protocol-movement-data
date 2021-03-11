@@ -1,5 +1,8 @@
 # A protocol for identifying problems in continuous movement data 
 
+[![DOI](https://zenodo.org/badge/346795161.svg)](https://zenodo.org/badge/latestdoi/346795161)
+
+
 This notebook provides an open-source implementation of the protocol presented in the paper: 
 
 Graser, A. (2021) An exploratory data analysis protocol for identifying problems in continuous movement data. *Journal of Location Based Services.* http://dx.doi.org/10.1080/17489725.2021.1900612.
