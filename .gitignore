@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/aisdk_20170701.csv
+data/aisdk_20180101.csv
+*.pkl
