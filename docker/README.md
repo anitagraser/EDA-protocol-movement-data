@@ -32,8 +32,8 @@ Using docker images, we can now see the newly created image:
 
     > docker images
     REPOSITORY                               TAG       IMAGE ID       CREATED             SIZE
-    <none>                                   <none>    42818cd88a22   28 seconds ago      12.4GB
-    anitagraser/eda-protocol-movement-data   latest    e6813be02eb1   About an hour ago   10.7GB
+    <none>                                   <none>    42818cd88a22   28 seconds ago      7.98GB
+    anitagraser/eda-protocol-movement-data   latest    e6813be02eb1   About an hour ago   6.26GB
 
 Using docker tag, we can name the image we just created: 
 
@@ -41,8 +41,8 @@ Using docker tag, we can name the image we just created:
 
     > docker images
     REPOSITORY                               TAG       IMAGE ID       CREATED              SIZE
-    eda-protocol-movement-data-rendered      latest    42818cd88a22   About a minute ago   12.4GB
-    anitagraser/eda-protocol-movement-data   latest    e6813be02eb1   About an hour ago    10.7GB
+    eda-protocol-movement-data-rendered      latest    42818cd88a22   About a minute ago   7.98GB
+    anitagraser/eda-protocol-movement-data   latest    e6813be02eb1   About an hour ago    6.26GB
 
 Finally, we can save the image to a tar file: 
 
