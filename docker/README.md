@@ -50,3 +50,4 @@ Finally, we can save the image to a tar file:
 
 The .tar file is quite large. Gzip it to reduce the size. 
 
+Here is the resulting image file: [eda-protocol-movement-data-1.0.tar.gz](https://www.dropbox.com/s/8ujak1pxkbpufz5/eda-protocol-movement-data-1.0.tar.gz?dl=0)
