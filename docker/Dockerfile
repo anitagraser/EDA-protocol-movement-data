@@ -1,4 +1,5 @@
 ARG BASE_CONTAINER=jupyter/minimal-notebook
+FROM python:3.7
 FROM $BASE_CONTAINER
 LABEL author="Anita Graser"
 
